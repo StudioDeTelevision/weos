@@ -5,6 +5,8 @@ http://weos.live
 
 ## About "we os"
 Webos designed to let you quickly create your apps, or import existing ones.
+You may use standard javascript + html5 
+or ES2015 
 
 ## About the repo
 This repo is used for issues and wiki
